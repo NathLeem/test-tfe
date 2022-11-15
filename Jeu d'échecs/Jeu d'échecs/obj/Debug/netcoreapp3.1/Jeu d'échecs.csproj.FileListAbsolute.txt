@@ -1,0 +1,20 @@
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\bin\Debug\netcoreapp3.1\Jeu d'échecs.exe
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\bin\Debug\netcoreapp3.1\Jeu d'échecs.deps.json
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\bin\Debug\netcoreapp3.1\Jeu d'échecs.runtimeconfig.json
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\bin\Debug\netcoreapp3.1\Jeu d'échecs.runtimeconfig.dev.json
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\bin\Debug\netcoreapp3.1\Jeu d'échecs.dll
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\bin\Debug\netcoreapp3.1\Jeu d'échecs.pdb
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs.csproj.AssemblyReference.cache
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\App.g.cs
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs_MarkupCompile.cache
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs_MarkupCompile.lref
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\MainWindow.baml
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs.g.resources
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs.GeneratedMSBuildEditorConfig.editorconfig
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs.AssemblyInfoInputs.cache
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs.AssemblyInfo.cs
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs.csproj.CoreCompileInputs.cache
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs.dll
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs.pdb
+H:\6TI\Progra\ExGit\TFE-Jeu-d-echecs\Jeu d'échecs\Jeu d'échecs\obj\Debug\netcoreapp3.1\Jeu d'échecs.genruntimeconfig.cache
