@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="650" Width="650" HorizontalAlignment="Center" VerticalAlignment="Center">
     <Grid x:Name="grdPlate">
-        
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Border></Border>
+        <Border></Border>
+        <Border></Border>
     </Grid>
 </Window>
